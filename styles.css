@@ -3,7 +3,11 @@ body{
     }
 p{
     text-align: left;
+    text-indent: 635px;
 }
 img {
     width: 50%;
+}
+footer{
+    margin-top: 200px;
 }
